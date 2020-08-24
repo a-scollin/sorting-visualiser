@@ -1,0 +1,25 @@
+.bar{
+
+    width:4px;
+    display: inline-block;
+    margin: 0 2px;
+    background-color: blue;
+}
+
+.arraydiv{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 50em;
+}
+
+.sel{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
